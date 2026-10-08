@@ -1,0 +1,3 @@
+gpiozero>=2.0
+lgpio            # pin factory cho Raspberry Pi 5
+paho-mqtt>=2.0

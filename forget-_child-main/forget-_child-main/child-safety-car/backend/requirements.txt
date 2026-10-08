@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+python-multipart
+PyJWT
+httpx
+numpy
+opencv-python-headless
+ultralytics            # dùng bản mới có hỗ trợ YOLO26
+paho-mqtt>=2.0
+crewai
+firebase-admin         # push FCM (tuỳ chọn)
+twilio                 # SMS (tuỳ chọn)
